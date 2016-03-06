@@ -1,0 +1,5 @@
+build/
+node_modules/
+/nbproject/private/
+project.properties
+project.xml

@@ -1,0 +1,10 @@
+Kudos to these people who helped to make this plugin better:
+
+https://github.com/ajoslin
+https://github.com/BigE
+https://github.com/bramp
+https://github.com/bonzini
+https://github.com/dotty
+https://github.com/magcius
+https://github.com/okin
+https://github.com/Smotko

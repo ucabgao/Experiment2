@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <title>AJAXer</title>
+    <script src="../lib/ajaxer.js"></script>
+  </head>
+  <body>
+    <script>
+    /*
+    var aj = new AjaxHandler('ajaj.php', window.alert);
+    aj.callback(window.alert);
+    //aj.get();
+    document.write('now here')
+    //aj.url('ajaj.php');
+    aj.post(some);
+*/
+    var some = {name: 'eddie',ln: 'gurnee'};
+    ajaxer.post('ajaj.php', some, alert);
+
+    ajaxer.get('moar_data.json', function(data) {console.log(data);});
+    </script>
+    <button>GET</button>
+    <input type="text" name="key" /><button onclick="post(some)">POST</button>
+  </body>
+</html>

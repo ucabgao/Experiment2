@@ -1,0 +1,35 @@
+{
+    "name": "BeavisBot",
+    "description": "A customizable plug.dj room bot",
+    "version": "2.0.0",
+    "keywords": ["turntable.fm", "turntable", "plug.dj", "plug"],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/AvatarKava/BeavisBot.git"
+    },
+    "author": "Mike Burke <mburke@phpmonkeys.com>",
+    "main": "bot.js",
+    "directories": {
+        "commands": "commands"
+    },
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "dependencies": {
+        "bluebird": "*",
+        "cleverbot-node": "git://github.com/AvatarKava/cleverbot-node.git",
+        "moment": "*",
+        "mysql": "*",
+        "node-datatable": "git://github.com/jpravetz/node-datatable.git",
+        "plugapi": "git://github.com/plugCubed/plugAPI.git",
+        "request": "*",
+        "sequelize": "*",
+        "sqlite3": "*",
+        "string": "*",
+        "underscore": "*"
+    },
+    "devDependencies": {
+        "sequelize-fixtures": "*"
+    },
+    "optionalDependencies": {}
+}

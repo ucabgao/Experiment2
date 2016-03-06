@@ -1,0 +1,55 @@
+{
+  "name": "ajaxer",
+  "version": "3.2.1",
+  "description": "a small library for ajax handling",
+  "main": "./lib/ajaxer.js",
+  "directories": {
+    "example": "./example",
+    "build": "./build",
+    "bin": "./bin",
+    "doc": "./doc",
+    "lib": "./lib",
+    "man": "./man"
+  },
+  "scripts": {
+    "test": "mocha tests",
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags",
+    "cover": "istanbul cover _mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/power-cosmic/ajaxer.git"
+  },
+  "keywords": [
+    "ajax",
+    "browser"
+  ],
+  "author": "Eddie Gurnee <egurnee@emich.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/power-cosmic/ajaxer/issues"
+  },
+  "homepage": "https://github.com/power-cosmic/ajaxer#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "coveralls": "^2.11.4",
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-coveralls": "^1.0.0",
+    "grunt-env": "^0.4.4",
+    "grunt-istanbul": "^0.6.1",
+    "grunt-jscs": "^2.1.0",
+    "grunt-mocha-test": "^0.12.7",
+    "istanbul": "^0.3.20",
+    "jscs": "^2.1.1",
+    "load-grunt-tasks": "^3.3.0",
+    "mocha": "^2.3.2",
+    "mocha-lcov-reporter": "0.0.2",
+    "sinon": "^1.16.1",
+    "xmlhttprequest": "^1.7.0"
+  }
+}
