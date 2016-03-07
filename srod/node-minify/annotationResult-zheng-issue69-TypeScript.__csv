@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+srod/node-minify,69,11fbf7344ac8946808102fe72a3d7e62cc7662e2,TypeScript,Undetectable,Malformed string. A syntax error was caused by the wrong construction of a file path on windows. Dynamic. Therefore undetectable. ,35.0
