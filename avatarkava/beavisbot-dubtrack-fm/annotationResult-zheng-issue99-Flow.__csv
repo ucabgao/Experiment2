@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+avatarkava/beavisbot-dubtrack-fm,99,dd4bbcca06bc6aca45560dda6064d69f54846b1c,Flow,Undetectable,Logic error. Missing a check of the user's role. The two type systems cannot detect the bug statically because of their coarse granuality in expressivity.,38.0
