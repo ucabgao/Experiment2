@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+karfcz/kff,1,67db12a8bc083ab093d480c65b9133cce141742c,TypeScript,Undetectable,Logic error. The bug is related to the interaction between multiple events, not types.,22.0
