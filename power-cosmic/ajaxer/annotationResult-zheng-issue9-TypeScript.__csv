@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+power-cosmic/ajaxer,9,92af0abdaaca8fedc49794efab0f5c2b43d7334a,TypeScript,Undetectable,TypeScript does not support nullable annotation.,308.0
