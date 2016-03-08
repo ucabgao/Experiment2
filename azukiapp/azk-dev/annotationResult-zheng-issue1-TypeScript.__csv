@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+azukiapp/azk-dev,1,e3988a4d261cd79f1cff94030d85c894099df925,TypeScript,Undetectable,Logic. The bug was that the program unnecessarily outputs an error message.,56.0
