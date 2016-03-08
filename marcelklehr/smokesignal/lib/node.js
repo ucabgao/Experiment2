@@ -1,3 +1,5 @@
+/* @flow */
+
 var nssocket = require('nssocket')
   , net = require('net')
   , EventEmitter = require('events').EventEmitter
