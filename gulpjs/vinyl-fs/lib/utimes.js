@@ -1,3 +1,5 @@
+/* @flow */
+
 'use strict';
 
 var fs = require('graceful-fs');

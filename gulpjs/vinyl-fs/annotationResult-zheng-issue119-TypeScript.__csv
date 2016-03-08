@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+gulpjs/vinyl-fs,119,6738fd4cc7112c9b4f94895278cc433319e0aa91,TypeScript,Undetectable,Needs more fine-grained annotations to successfully detect this bug. A function's parameter one of whose properties could be assigned an invalid date object. The bug was due to a lack of a check for the property's validity as a date object. Maybe able to detect such a bug by changing the project's source code.,381.0
