@@ -1,2 +1,2 @@
 Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
-kz/isitaweekorbweek,6,a2581104483b2a5f2222a2edbca2304428f9a36a,TypeScript,Undetectable,Logic error. Mishandled an input that is actually a date not on Monday.,491.0
+kz/isitaweekorbweek,6,a2581104483b2a5f2222a2edbca2304428f9a36a,TypeScript,Undetectable,Logic error. Mishandled an input that is actually a date not on Monday.,76.0
