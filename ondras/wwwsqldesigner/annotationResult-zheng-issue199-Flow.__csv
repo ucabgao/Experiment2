@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+ondras/wwwsqldesigner,199,097b9e89c95e4de2c184f40a1e8ef5e05bda9ddc,Flow,Undetectable,The bug is caused by missing to check in a JavaScript file. ,5.0
