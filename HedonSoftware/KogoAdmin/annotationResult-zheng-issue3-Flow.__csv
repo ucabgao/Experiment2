@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+HedonSoftware/KogoAdmin,3,0f4a5cc02ebe13a13f8ac9be4c5625f9df11f48d,Flow,Undetectable,Logic error. Wrongly handle a case when first delete a user and then create a user with the same name. This bug is highly dynamic.,54.0
