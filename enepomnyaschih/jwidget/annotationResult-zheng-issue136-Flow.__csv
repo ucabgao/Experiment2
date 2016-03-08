@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+enepomnyaschih/jwidget,136,01edfc7082dd758c269f9ae97a41672e4f06211c,Flow,Undetectable,Logic error. A missing functionality that does not cause any bugs. ,47.0
