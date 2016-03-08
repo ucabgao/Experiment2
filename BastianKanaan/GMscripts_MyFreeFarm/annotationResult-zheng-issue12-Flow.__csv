@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+BastianKanaan/GMscripts_MyFreeFarm,12,5a9744e498cb2349c2430b502f5bc6e224cc15ba,Flow,Undetectable,Logic error. Unnecessary waiting for a few minutes set by some fields in the setting. The fix reverse the order of some code.,92.0
