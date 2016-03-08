@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+mullanaphy/ColorMeAwesome,1,79d81e6c6aacd56c18189961d545cc3796e14740,TypeScript,Undetectable,Logic error. Malfunction related to UI layout and wrong computation,72.0
