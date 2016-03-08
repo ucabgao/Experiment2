@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+Deseteral/dj-lama,7,0e0c919cade5cd9448af0342e80e09f75141ad30,Flow,Undetectable,Logic error. Wrongly handle the case when there are too many songs in the database and therefore cannot fit in one message. Dynamic.,70.0
