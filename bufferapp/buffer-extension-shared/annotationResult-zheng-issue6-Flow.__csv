@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+bufferapp/buffer-extension-shared,6,9df31cddab4f9c8b6a99041ae7c661c468bb1f13,Flow,Undetectable,Logic error. The check for a URL to see whether it is of some common suffixes is not needed and causes some images whose URL does not end with these suffixes to be ignored.,63.0
