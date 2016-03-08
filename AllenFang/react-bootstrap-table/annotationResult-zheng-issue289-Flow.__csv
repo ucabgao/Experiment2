@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+AllenFang/react-bootstrap-table,289,9b867cbca8bbfe58e8b704461937636d22ea27d7,Flow,Undetectable,Logic error. Missing predicates.,62.0
