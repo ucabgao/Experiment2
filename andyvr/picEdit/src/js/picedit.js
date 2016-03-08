@@ -1,3 +1,4 @@
+/* @flow */
 /*
  *  Project: PicEdit
  *  Description: Creates an image upload box with tools to edit images on the front-end before uploading
