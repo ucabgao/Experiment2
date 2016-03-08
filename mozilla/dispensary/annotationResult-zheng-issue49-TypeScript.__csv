@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+mozilla/dispensary,49,6d95d1ecad2b4455cc31a025df3f273a37d133b0,TypeScript,Undetectable,Logic error. Malfunction. When used as a node module, the project failed to expose a text file. Dynamic.,80.0
