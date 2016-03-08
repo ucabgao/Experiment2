@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+yssk22/fluent-logger-node,1,9dc1c05a3c7d9658fe9fda08e90390f1351981cb,Flow,Undetectable,Logic error. Wrong computation. Forgot to divide 1000.,17.0
