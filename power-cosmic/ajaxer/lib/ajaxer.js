@@ -1,3 +1,5 @@
+/* @flow */
+
 /*jshint -W032 */
 ;
 /*jshint +W032 */

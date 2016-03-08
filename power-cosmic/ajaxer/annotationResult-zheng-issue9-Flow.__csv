@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+power-cosmic/ajaxer,9,92af0abdaaca8fedc49794efab0f5c2b43d7334a,Flow,Detectable,Successfully detect a function variable could be null and therefore is not safe to invoke without checking for null,40.0
