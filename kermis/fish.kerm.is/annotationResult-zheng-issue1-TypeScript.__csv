@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+kermis/fish.kerm.is,1,b3c290f6ed9cc3baf3d10abbe931b6a626b9c8dc,TypeScript,Undetectable,Needs more fine-grained type annotations than just "number", since the bug is caused by a missing value check for a property of type number.,11.0
