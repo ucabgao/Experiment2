@@ -1,7 +1,19 @@
+/* @flow */
+
 'use strict';
 const _ = require('lodash');
 
-module.exports = (server, options) => {
+class t {
+    config:any;
+    path:any;       
+    crudCreate:?Object;
+    crudRead:?Object;
+    crudReadAll:?Object;    
+    crudUpdate:?Object;
+    crudDelete:?Object;
+}
+
+module.exports = (server, options:t) => {
   const reallAllPost = options.path.slice(0, options.path.lastIndexOf('/'))
 
   let baseOpts = _.omit(options, [
