@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+kagesenshi/gnome-shell-extensions-pidgin,27,87a55433536427549d6abc9c308edcf0d1f1667a,Flow,Undetectable,Logic error and UI error. Missing functionality.,15.0
