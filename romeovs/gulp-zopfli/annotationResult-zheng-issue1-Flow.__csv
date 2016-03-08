@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+romeovs/gulp-zopfli,1,ba5745830b698a56ca6b104dc436ea2621deddd0,Flow,Undetectable,Logic error. Missing functionality which compares the sizes of compressed files and those of the original files and outputs smaller ones.,56.0
