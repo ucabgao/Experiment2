@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+rdf-ext/rdf-parser-jsonld,1,f0b3e4903d45f54db989d752cc451ef46c45cfc6,TypeScript,Undetectable,"Incomplete predicates. Without the check, there is still no bug related to types",12.0
