@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+DataTables/FixedColumns,36,2b9de8413bfbd46357ecbfcf093408e1f7345c9c,TypeScript,Undetectable,"Missing predicates. Without the check, there is still no errors related to types",60.0
