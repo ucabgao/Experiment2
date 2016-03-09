@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+pyladies/pyladies,174,995f7c5fac8a886fae703963a6328dea6bf0ea14,TypeScript,Undetectable,"String errors. Need more fine-grained types than just string",49.0
