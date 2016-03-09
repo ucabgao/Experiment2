@@ -1,6 +1,12 @@
+/* @flow */
+
 'use strict';
 
-module.exports = function(config, done) {
+class t {
+    files: ?Object;
+}
+
+module.exports = function(config:t, done) {
   var path = require('path');
   var exec = require('child_process').exec;
   var chunkify = require('./chunkify');
