@@ -1,3 +1,5 @@
+/* @flow */
+
 var sys = require('sys');
 var fs = require('fs');
 var http = require('https');

@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+fgnass/jshint.tmbundle,7,4ce2c6dc113bcc378bc4ebc4c91a28b7e66d2f11,Flow,Detectable,"Flow detects that variable https has not been declared before",31.0
