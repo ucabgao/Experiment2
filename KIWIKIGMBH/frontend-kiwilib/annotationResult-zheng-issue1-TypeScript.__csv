@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+KIWIKIGMBH/frontend-kiwilib,1,a75a9db09a0aa179d4f6d5b93f46fa8f69f3044f,TypeScript,Undetectable,"Null handling. Does not support non-nullable type annotations.",23.0
