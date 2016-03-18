@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+marcelklehr/smokesignal,10,43348ca443a457121674532ab84e159fa667e1c6,TypeScript,Unknown,"Too many imports. Hard to figure out in 10 minutes.",221.0
