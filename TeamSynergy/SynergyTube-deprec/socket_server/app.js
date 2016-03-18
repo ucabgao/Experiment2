@@ -1,8 +1,15 @@
+/* @flow */
+
+interface t {
+login_name:?string;
+password:?string;
+}
+
 require('./first_start.js');
-var io  = require('socket.io').listen(8080);
-var hasher = require('password-hash');
+var io:any;//  = require('socket.io').listen(8080);
+var hasher:any;// = require('password-hash');
 var crypto = require('crypto');
-var nodemailer = require('nodemailer');
+var nodemailer:any;// = require('nodemailer');
 
 var configuration = require('./config.json');
 var backend = require('./mysql_backend.js');
@@ -148,7 +155,7 @@ io.sockets.on('connection', function (socket) {
 	
 	/* --User Related--*/
 
-	socket.on('user.login', function(data){
+	socket.on('user.login', function(data:t){
 		backend.user.findByLoginName(data.login_name, function(user){
 			if(user){
 				if(user.is_valid === 1){

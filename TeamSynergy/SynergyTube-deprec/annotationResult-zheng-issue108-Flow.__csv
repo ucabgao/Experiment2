@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+TeamSynergy/SynergyTube-deprec,108,636afc1d003ce616f6f9e8d6d4548845fae2218c,Flow,Unknown,"Add annotation that indicates data.password and data.login_name can be undefined. I thought this should have cautght the bug, but in fact it did not. Needs further investigation.",474.0
