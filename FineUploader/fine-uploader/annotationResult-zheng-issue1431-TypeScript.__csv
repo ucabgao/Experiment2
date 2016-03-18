@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+FineUploader/fine-uploader,1431,89aa5cbe76d1c6a2b54315035a5a73672c52acda,TypeScript,Unknown,"Deep dive material. A subsquent type error at runtime caused by misisng predicates.",265.0
