@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+paulveldema/ckeditor-plugins,4,ad4c6866ba1566ed00769c5785294a09f592d8e6,Flow,Detectable,"Add annotation to indicate that editor.config does not have a property 'contentCss'",43.0

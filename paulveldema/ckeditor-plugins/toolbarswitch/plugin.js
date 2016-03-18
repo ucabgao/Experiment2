@@ -1,3 +1,22 @@
+/* @flow */
+
+interface t {
+config:s;
+getData:any;
+element:any;
+destroy:any;
+}
+
+interface s {
+contentsCss:any;
+customConfig:any;
+extraPlugins:any;
+toolbar:any;
+smallToolbar:any;
+maximizedToolbar:any;
+}
+
+
 /**
  * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.html or http://ckeditor.com/license
@@ -28,7 +47,7 @@
  */
 
 
-function switchMe(editor, callback) {
+function switchMe(editor:t, callback) {
 
 	var origCustomConfig = editor.config.customConfig;
 	var origContentCss = editor.config.contentCss;
