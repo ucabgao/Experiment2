@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+TeamSynergy/SynergyTube-deprec,108,636afc1d003ce616f6f9e8d6d4548845fae2218c,TypeScript,Undetectable,"Null/undefined handling. TypeScript does not support non-nullable type annotation.",24.0
