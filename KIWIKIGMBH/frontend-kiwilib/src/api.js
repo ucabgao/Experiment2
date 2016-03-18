@@ -1,3 +1,9 @@
+/* @flow */
+
+class t{
+    groups:?Array<Object>;
+}
+
 //adapts API
 //glues API logic with front-end logic
 utils.module.save('api', (function(){
@@ -36,7 +42,7 @@ utils.module.save('api', (function(){
                         endpoint_leaf(function(singles){
                             if( !checkRet(singles) ) singles=[];
                             var ret = [];
-                            singles.forEach(function(s){
+                            singles.forEach(function(s:t){
                                 utils.assert(s['groups'],'missing groups');
                                 utils.assert(!s.isGroup,'a tag/sensor/user mistakenly set a group');
                                 s['groups'].forEach(function(group){
