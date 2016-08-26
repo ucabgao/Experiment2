@@ -1,3 +1,4 @@
+/// <reference path="node-0.12.d.ts" />
 "use strict";
 var nssocket = require('nssocket');
 var net = require('net');

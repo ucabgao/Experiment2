@@ -1,3 +1,5 @@
+/// <reference path="node-0.12.d.ts" />
+
 import nssocket = require('nssocket');
 import net = require('net');
 import EventEmitter = require('events');//.EventEmitter;
