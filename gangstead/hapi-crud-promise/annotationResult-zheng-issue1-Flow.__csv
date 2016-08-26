@@ -1,2 +1,3 @@
 Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
 gangstead/hapi-crud-promise,1,ac831fb2c9a415cfce6e19011931d0039e031a66,Flow,Detectable,The options could be undefined.,226.0
+gangstead/hapi-crud-promise,1,ac831fb2c9a415cfce6e19011931d0039e031a66,Flow,Detectable,"Annotation revision.",443.0

@@ -3,14 +3,16 @@
 'use strict';
 const _ = require('lodash');
 
-class t {
+type f = (x:any) => any;
+
+interface t {
     config:any;
     path:any;       
-    crudCreate:?Object;
-    crudRead:?Object;
-    crudReadAll:?Object;    
-    crudUpdate:?Object;
-    crudDelete:?Object;
+    crudCreate:?f;
+    crudRead:?f;
+    crudReadAll:?f;    
+    crudUpdate:?f;
+    crudDelete:?f;
 }
 
 module.exports = (server, options:t) => {
