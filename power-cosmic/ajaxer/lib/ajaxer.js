@@ -1,6 +1,5 @@
 /*jshint -W032 */
 ;
-/*jshint +W032 */
 (function (root, factory) {
     /* istanbul ignore next */
     if (typeof define === 'function') {

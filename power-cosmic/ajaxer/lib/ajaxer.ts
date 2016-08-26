@@ -1,6 +1,9 @@
 /*jshint -W032 */
 ;
 /*jshint +W032 */
+
+type f = (x:any) => any;
+
 (function(root, factory) {
   /* istanbul ignore next */
   if (typeof define === 'function') {
@@ -25,7 +28,7 @@
         return;
       }
       var onYes,
-        onBad;
+        onBad: null | f;
       if (typeof fn == "function") {
         onYes = fn;
         onBad = null;
