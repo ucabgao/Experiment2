@@ -1,2 +1,3 @@
 Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
 jzaefferer/grunt-html,79,e87353926117b8f204f13c6ded8c99b126299102,Flow,Detectable,"Flow supports nullable type annotations ",548.0
+jzaefferer/grunt-html,79,e87353926117b8f204f13c6ded8c99b126299102,Flow,Undetectable,"MIssing branch: it is more about being an empty array, not a nullable variable.",258.0
