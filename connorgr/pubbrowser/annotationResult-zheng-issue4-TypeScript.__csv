@@ -1,0 +1,2 @@
+Project,Issue,Commit,TypeChecker,Detectable,Comment,AnnotationTime
+connorgr/pubbrowser,4,8e14ede0172f67acd8e995013e326ddbf74c423b,TypeScript,Undetectable,"EIS. Failed to correctly append text. The bug is jQuery related; highly dynamic.",109.0
